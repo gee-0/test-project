@@ -1,4 +1,9 @@
 1. git clone <address>      Will bring the latest version of the repository to your local machine
-3. git branch                Will show you the branches available in the repository
-4. git checkout <branch>      Will switch to the specified branch
-2. git status               Will show the status of the local repository
+2. git branch                Will show you the branches available in the repository
+3. git checkout <branch>      Will switch to the specified branch
+4. git status               Will show the status of the local repository
+5. git add <file>           Will add the file to the staging area
+6. git commit -m <message>  Will commit the changes to the repository
+7. git push origin <branch>                 Will push the changes to the remote repository
+8. git pull origin <branch>                 Will pull the changes from the remote repository
+9. git log                  Will show the history of the repository
