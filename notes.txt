@@ -1,0 +1,4 @@
+1. git clone <address>      Will bring the latest version of the repository to your local machine
+3. git branch                Will show you the branches available in the repository
+4. git checkout <branch>      Will switch to the specified branch
+2. git status               Will show the status of the local repository
